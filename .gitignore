@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+__pycache__/
+.venv/
+private-data/
+exports/
+credentials/
